@@ -11,3 +11,8 @@
 # ESP platforms
 - https://github.com/eerimoq/simba
 - http://wiki.jackslab.org/Noduino
+
+# ESP32
+
+- https://github.com/FozzTexx/ws2812-demo
+- https://github.com/igrr/esp32-cam-demo
