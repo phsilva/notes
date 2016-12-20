@@ -9,6 +9,10 @@
 - https://github.com/richardhawthorn/piZero-Hub
 - http://openfet.com/2015/12/23/raspberry-pi-zero-open-hardware-usb-hub/
 
+## Serial/RS-232 hat for Raspberry Pi
+
+- https://thepihut.com/products/serial-pizero
+
 ## BLE for raspberry pi zero
 
 - https://www.kickstarter.com/projects/1728237598/hubpiwi-blue-pi-zero-add-on-wifi-bluetooth-3-usb-p/updates
