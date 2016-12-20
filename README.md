@@ -9,6 +9,10 @@
 - https://github.com/richardhawthorn/piZero-Hub
 - http://openfet.com/2015/12/23/raspberry-pi-zero-open-hardware-usb-hub/
 
+## Ethernet for raspberry pi zero
+
+- http://raspi.tv/2015/ethernet-on-pi-zero-how-to-put-an-ethernet-port-on-your-pi
+
 ## Serial/RS-232 hat for Raspberry Pi
 
 - https://thepihut.com/products/serial-pizero
