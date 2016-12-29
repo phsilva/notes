@@ -12,6 +12,10 @@
 - http://www.righto.com/2016/08/the-beaglebones-io-pins-inside-software.html
 - http://www.righto.com/2016/08/pru-tips-understanding-beaglebones.html
 
+## Ultrasound project
+
+- https://github.com/kelu124/echomods/
+
 ## GPIO performance
 
 - http://codeandlife.com/2016/04/18/beaglebone-black-gpio-benchmark/
