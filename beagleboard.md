@@ -15,6 +15,7 @@
 ## Ultrasound project
 
 - https://github.com/kelu124/echomods/
+- https://github.com/kelu124/murgen-dev-kit
 
 ## GPIO performance
 
