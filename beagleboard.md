@@ -16,6 +16,7 @@
 
 - https://github.com/kelu124/echomods/
 - https://github.com/kelu124/murgen-dev-kit
+- http://echopen.org/
 
 ## GPIO performance
 
