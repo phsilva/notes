@@ -12,6 +12,11 @@
 - http://www.righto.com/2016/08/the-beaglebones-io-pins-inside-software.html
 - http://www.righto.com/2016/08/pru-tips-understanding-beaglebones.html
 
+## GPIO performance
+
+- http://codeandlife.com/2016/04/18/beaglebone-black-gpio-benchmark/
+- http://coherent-receiver.com/1027/beagle-bone-gpio-performance
+
 ## Books
 
 - Dereck Molloy's Exploring BeagleBone http://exploringbeaglebone.com/chapter13/
