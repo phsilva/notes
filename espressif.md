@@ -1,3 +1,7 @@
+# Xtensa
+
+- https://github.com/themadinventor/ida-xtensa/blob/master/xtensa.py
+
 # ESP8266, cnlohr best hacks
 - https://github.com/cnlohr/espusb
 
