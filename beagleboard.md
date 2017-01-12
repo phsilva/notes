@@ -12,6 +12,10 @@
 - http://www.righto.com/2016/08/the-beaglebones-io-pins-inside-software.html
 - http://www.righto.com/2016/08/pru-tips-understanding-beaglebones.html
 
+- https://github.com/MarkAYoder/BeagleBoard-exercises/tree/master/pru/prudebug
+- https://github.com/Greg-R/pru-pid-motor e http://processors.wiki.ti.com/index.php/PRU_Training:_PRU_PID_Motor_Demo
+- https://github.com/omcaree/bbb-prupwm PWM Motor
+
 ## Ultrasound project
 
 - https://github.com/kelu124/echomods/
