@@ -16,6 +16,10 @@
 - https://github.com/Greg-R/pru-pid-motor e http://processors.wiki.ti.com/index.php/PRU_Training:_PRU_PID_Motor_Demo
 - https://github.com/omcaree/bbb-prupwm PWM Motor
 
+# Debian
+
+- https://github.com/RobertCNelson/boot-scripts
+
 ## Ultrasound project
 
 - https://github.com/kelu124/echomods/
