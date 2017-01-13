@@ -16,6 +16,7 @@
 
 # ESP platforms
 - https://github.com/eerimoq/simba
+- http://pumbaa.readthedocs.io/en/latest/index.html
 - http://wiki.jackslab.org/Noduino
 - https://github.com/SuperHouse/esp-open-rtos
 - https://github.com/pfalcon/esp-open-sdk
