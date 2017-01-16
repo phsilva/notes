@@ -35,6 +35,7 @@
 - https://github.com/tomerweller/esp32-rtos-webclient/blob/with-ring-oscillator/main/http_request_main.c
 - https://github.com/lucadentella/esp32-tutorial/tree/master/01_wifi_scanner
 - https://blog.adafruit.com/2017/01/03/intro-to-the-esp32-its-development-environment-bootloader-and-more-iotuesday/
+- https://www.youtube.com/channel/UCvsMfEoIu_ZdBIgQVcY_AZA/videos
 
 # Quadcopter on ESP
 
